@@ -1,2 +1,3 @@
-2026/01/13-14:11:40.490 4630 Creating DB D:/github/Frank/franks-diner-music/FrankDinerMusic/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/01/13-14:11:40.872 4630 Reusing MANIFEST D:/github/Frank/franks-diner-music/FrankDinerMusic/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/01/16-12:18:58.108 4268 Reusing MANIFEST D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/01/16-12:18:58.129 4268 Recovering log #3
+2026/01/16-12:18:58.130 4268 Reusing old log D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Saved/webcache_4430\Local Storage\leveldb/000003.log 

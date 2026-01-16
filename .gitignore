@@ -73,3 +73,12 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+# Unreal Engine temporary files
+Saved/
+Intermediate/
+DerivedDataCache/
+FileOpenOrder/
+# Web cache and telemetry
+.local/
+webcache*/
+Telemetry.json

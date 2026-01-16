@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/cleenguitarA4.uasset",
+				"D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/fingeredbasA4.uasset",
+				"D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/grandpianoA4.uasset",
+				"D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/jazguitarA4.uasset",
+				"D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/pickedbassA4.uasset",
+				"D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/sopranosaxA4.uasset",
+				"D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/tenorsaxA4.uasset",
 				"D:/github/Frank/franks-diner-music/FrankDinerMusic/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
