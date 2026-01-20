@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/andre/Documents/Github/Franks music/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/Blueprint/MusicalScale.uasset",
+				"C:/Users/andre/Documents/Github/Franks music/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/Blueprint/Musitian.uasset",
+				"C:/Users/andre/Documents/Github/Franks music/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/MS_ProceduralMusician.uasset",
 				"D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/cleenguitarA4.uasset",
 				"D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/fingeredbasA4.uasset",
 				"D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/grandpianoA4.uasset",
@@ -14,8 +17,6 @@
 				"D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/tenorsaxA4.uasset",
 				"D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/Blueprint/MusicalScale.uasset",
 				"D:/github/Frank/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/Blueprint/Musitian.uasset",
-				"C:/Users/andre/Documents/Github/Franks music/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/Blueprint/MusicalScale.uasset",
-				"C:/Users/andre/Documents/Github/Franks music/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/Blueprint/Musitian.uasset",
 				"D:/github/Frank/franks-diner-music/FrankDinerMusic/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
