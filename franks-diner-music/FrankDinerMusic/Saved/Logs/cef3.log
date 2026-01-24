@@ -1,1 +1,6 @@
-[0123/122039.816:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0124/153925.832:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0124/153925.867:ERROR:cache_util.cc(144)] Unable to move cache folder D:/github/Frank/Franks Band/FranksDiner/franks-diner-music/FrankDinerMusic/Saved/webcache_4430\Cache to D:/github/Frank/Franks Band/FranksDiner/franks-diner-music/FrankDinerMusic/Saved/webcache_4430\old_Cache_000
+[0124/153925.909:ERROR:disk_cache.cc(184)] Unable to create cache
+[0124/153944.165:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0124/153956.315:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0124/153956.315:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
