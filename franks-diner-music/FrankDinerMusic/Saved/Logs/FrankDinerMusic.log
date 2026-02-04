@@ -1925,3 +1925,134 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.04-12.43.56:652][511]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.04-12.43.56:652][511]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.04-12.43.56:652][511]AssetCheck: /Game/_Musitian/MS_Procedueal_Piano Validating asset
+[2026.02.04-12.44.09:259][570]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2034.808960
+[2026.02.04-12.44.10:258][573]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-12.44.10:258][573]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2035.475708, Update Interval: 321.848816
+[2026.02.04-12.50.10:322][653]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2395.874268
+[2026.02.04-12.50.11:327][656]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-12.50.11:327][656]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2396.541504, Update Interval: 336.928009
+[2026.02.04-12.56.25:071][777]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2770.620850
+[2026.02.04-12.56.26:067][780]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-12.56.26:067][780]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2771.283936, Update Interval: 356.729645
+[2026.02.04-13.03.12:799][  0]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3178.344482
+[2026.02.04-13.03.13:799][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-13.03.13:799][  3]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3179.011475, Update Interval: 302.032532
+[2026.02.04-13.08.53:538][ 22]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3519.084961
+[2026.02.04-13.08.54:537][ 25]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-13.08.54:537][ 25]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3519.751465, Update Interval: 325.663025
+[2026.02.04-13.11.43:633][533]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.008 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.04-13.15.04:925][136]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3890.474121
+[2026.02.04-13.15.05:929][139]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-13.15.05:930][139]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3891.141357, Update Interval: 310.408020
+[2026.02.04-13.20.48:648][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4234.200684
+[2026.02.04-13.20.49:650][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-13.20.49:650][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4234.867676, Update Interval: 302.603851
+[2026.02.04-13.26.33:049][200]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4578.610840
+[2026.02.04-13.26.34:048][203]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-13.26.34:048][203]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4579.276855, Update Interval: 325.512878
+[2026.02.04-13.32.44:275][310]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4949.840820
+[2026.02.04-13.32.45:273][313]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-13.32.45:273][313]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4950.504395, Update Interval: 359.522095
+[2026.02.04-13.39.41:350][561]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5366.905762
+[2026.02.04-13.39.42:349][564]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-13.39.42:349][564]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5367.572754, Update Interval: 342.600800
+[2026.02.04-13.46.00:105][697]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5745.658203
+[2026.02.04-13.46.01:106][700]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-13.46.01:106][700]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5746.322266, Update Interval: 341.720032
+[2026.02.04-13.52.23:494][847]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6129.044434
+[2026.02.04-13.52.24:492][850]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-13.52.24:492][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6129.713379, Update Interval: 301.684631
+[2026.02.04-13.58.07:882][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6473.430664
+[2026.02.04-13.58.08:882][883]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-13.58.08:882][883]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6474.097168, Update Interval: 359.545898
+[2026.02.04-14.04.59:950][116]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6885.503418
+[2026.02.04-14.05.00:952][119]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-14.05.00:952][119]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6886.172363, Update Interval: 327.812744
+[2026.02.04-14.11.02:344][203]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7247.893066
+[2026.02.04-14.11.03:343][206]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-14.11.03:343][206]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7248.558594, Update Interval: 325.822327
+[2026.02.04-14.11.43:633][327]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.007 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.04-14.17.05:067][291]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7610.615723
+[2026.02.04-14.17.06:070][294]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-14.17.06:070][294]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7611.283203, Update Interval: 303.014008
+[2026.02.04-14.19.28:225][745]LogUObjectHash: Compacting FUObjectHashTables data took  15.17ms
+[2026.02.04-14.19.28:251][745]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.345
+[2026.02.04-14.19.28:259][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Musitian/MS_Procedueal_Piano] ([1] browsable assets)...
+[2026.02.04-14.19.28:259][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Musitian/MS_Procedueal_Piano]
+[2026.02.04-14.19.28:362][745]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Musitian/MS_Procedueal_Piano_Auto3
+[2026.02.04-14.19.28:362][745]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Github/Franks music/FranksDiner/FranksDiner/franks-diner-music/FrankDinerMusic/Saved/MS_Procedueal_Piano_Auto3B9BEADDF4F247C2B071C5680901B1EFB.tmp' to '../../../../../../Users/andre/Documents/Github/Franks music/FranksDiner/FranksDiner/franks-diner-music/FrankDinerMusic/Saved/Autosaves/Game/_Musitian/MS_Procedueal_Piano_Auto3.uasset'
+[2026.02.04-14.19.28:374][745]LogFileHelpers: Auto-saving content packages took 0.122
+[2026.02.04-14.23.02:390][927]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7967.935059
+[2026.02.04-14.23.03:391][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-14.23.03:391][930]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7968.604004, Update Interval: 318.404480
+[2026.02.04-14.28.58:816][996]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8324.356445
+[2026.02.04-14.28.59:816][999]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-14.28.59:819][999]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8325.022461, Update Interval: 324.306152
+[2026.02.04-14.35.16:213][128]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8701.759766
+[2026.02.04-14.35.17:215][131]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-14.35.17:215][131]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8702.428711, Update Interval: 337.235626
+[2026.02.04-14.41.35:277][265]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9080.826172
+[2026.02.04-14.41.36:279][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-14.41.36:280][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9081.493164, Update Interval: 332.132324
+[2026.02.04-14.47.41:344][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9446.900391
+[2026.02.04-14.47.42:337][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-14.47.42:337][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9447.557617, Update Interval: 335.245209
+[2026.02.04-14.51.52:355][315]LogSlate: Window 'Save Asset As' being destroyed
+[2026.02.04-14.51.52:451][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-14.51.52:505][315]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Musitian/MS_Procedueal_sax] ([1] browsable assets)...
+[2026.02.04-14.51.52:505][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Musitian/MS_Procedueal_sax]
+[2026.02.04-14.51.52:518][315]LogSavePackage: Moving output files for package: /Game/_Musitian/MS_Procedueal_sax
+[2026.02.04-14.51.52:518][315]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Github/Franks music/FranksDiner/FranksDiner/franks-diner-music/FrankDinerMusic/Saved/MS_Procedueal_sax61C579CE4CB862FBAABFCB9CF98A20DC.tmp' to '../../../../../../Users/andre/Documents/Github/Franks music/FranksDiner/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/MS_Procedueal_sax.uasset'
+[2026.02.04-14.51.52:548][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.440 ms (total: 552.822 ms)
+[2026.02.04-14.51.52:581][315]LogSlate: Window 'MS_Procedueal_Piano' being destroyed
+[2026.02.04-14.51.53:067][315]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/_Musitian/MS_Procedueal_sax.MS_Procedueal_sax
+[2026.02.04-14.51.53:539][315]LogSlate: The tab "MetasoundEditor_Pages" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2026.02.04-14.51.54:915][315]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.04-14.51.54:915][315]LogContentValidation: Enabled validators:
+[2026.02.04-14.51.54:916][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-14.51.54:916][315]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-14.51.54:916][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-14.51.54:916][315]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-14.51.54:916][315]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-14.51.54:917][315]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-14.51.54:918][315]AssetCheck: /Game/_Musitian/MS_Procedueal_sax Validating asset
+[2026.02.04-14.53.51:946][302]LogStreaming: Display: FlushAsyncLoading(484): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.04-14.53.54:888][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9820.427734
+[2026.02.04-14.53.55:193][334]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-14.53.55:194][335]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9820.711914, Update Interval: 343.593262
+[2026.02.04-14.54.05:099][624]LogUObjectHash: Compacting FUObjectHashTables data took  17.12ms
+[2026.02.04-14.54.05:118][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-14.54.05:157][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Musitian/MS_Procedueal_Piano] ([1] browsable assets)...
+[2026.02.04-14.54.05:157][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Musitian/MS_Procedueal_Piano]
+[2026.02.04-14.54.05:170][624]LogSavePackage: Moving output files for package: /Game/_Musitian/MS_Procedueal_Piano
+[2026.02.04-14.54.05:171][624]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Github/Franks music/FranksDiner/FranksDiner/franks-diner-music/FrankDinerMusic/Saved/MS_Procedueal_PianoE1521B4A4413C32EE26D92B08B35B8EB.tmp' to '../../../../../../Users/andre/Documents/Github/Franks music/FranksDiner/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/MS_Procedueal_Piano.uasset'
+[2026.02.04-14.54.05:172][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Musitian/MS_Procedueal_sax] ([1] browsable assets)...
+[2026.02.04-14.54.05:172][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Musitian/MS_Procedueal_sax]
+[2026.02.04-14.54.05:208][624]LogSavePackage: Moving output files for package: /Game/_Musitian/MS_Procedueal_sax
+[2026.02.04-14.54.05:208][624]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Github/Franks music/FranksDiner/FranksDiner/franks-diner-music/FrankDinerMusic/Saved/MS_Procedueal_saxC90BB54E406624200FADAFB16E5E6FA1.tmp' to '../../../../../../Users/andre/Documents/Github/Franks music/FranksDiner/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/MS_Procedueal_sax.uasset'
+[2026.02.04-14.54.05:222][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.762 ms (total: 656.585 ms)
+[2026.02.04-14.54.05:275][624]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.04-14.54.05:275][624]LogContentValidation: Enabled validators:
+[2026.02.04-14.54.05:275][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-14.54.05:275][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-14.54.05:275][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-14.54.05:275][624]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-14.54.05:275][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-14.54.05:275][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-14.54.05:275][624]AssetCheck: /Game/_Musitian/MS_Procedueal_Piano Validating asset
+[2026.02.04-14.54.05:275][624]AssetCheck: /Game/_Musitian/MS_Procedueal_sax Validating asset
+[2026.02.04-14.58.35:633][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.02.04-14.58.37:037][ 47]LogSlate: Window 'MS_Procedueal_sax' being destroyed
+[2026.02.04-14.58.37:124][ 47]LogSlate: Window 'MS_Procedueal_sax' being destroyed
+[2026.02.04-14.58.38:869][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2026.02.04-14.58.40:336][ 63]LogStall: Shutdown...
+[2026.02.04-14.58.40:337][ 63]LogStall: Shutdown complete.
+[2026.02.04-14.58.41:413][ 63]LogSlate: Window 'FrankDinerMusic - Unreal Editor' being destroyed
+[2026.02.04-14.58.41:998][ 63]Cmd: QUIT_EDITOR
+[2026.02.04-14.58.41:998][ 63]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.04-14.58.42:157][ 64]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.04-14.58.42:162][ 64]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.04-14.58.42:163][ 64]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.04-14.58.42:427][ 64]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-14.58.42:440][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-14.58.42:441][ 64]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
