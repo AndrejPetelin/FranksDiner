@@ -1890,3 +1890,38 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.04-12.34.56:210][546]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.04-12.34.56:210][546]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.04-12.34.56:210][546]AssetCheck: /Game/_Musitian/MS_Procedueal_Piano Validating asset
+[2026.02.04-12.38.27:769][210]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1693.322388
+[2026.02.04-12.38.28:771][213]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-12.38.28:771][213]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1693.991211, Update Interval: 303.391205
+[2026.02.04-12.41.03:740][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.02.04-12.41.03:746][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-12.41.03:791][145]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Musitian/MS_Procedueal_Piano] ([1] browsable assets)...
+[2026.02.04-12.41.03:791][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Musitian/MS_Procedueal_Piano]
+[2026.02.04-12.41.03:826][145]LogSavePackage: Moving output files for package: /Game/_Musitian/MS_Procedueal_Piano
+[2026.02.04-12.41.03:829][145]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Github/Franks music/FranksDiner/FranksDiner/franks-diner-music/FrankDinerMusic/Saved/MS_Procedueal_PianoC2E248344AD4E74E71439BB77351CFA6.tmp' to '../../../../../../Users/andre/Documents/Github/Franks music/FranksDiner/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/MS_Procedueal_Piano.uasset'
+[2026.02.04-12.41.03:841][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.015 ms (total: 355.409 ms)
+[2026.02.04-12.41.03:890][145]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.04-12.41.03:891][145]LogContentValidation: Enabled validators:
+[2026.02.04-12.41.03:891][145]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-12.41.03:891][145]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-12.41.03:891][145]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-12.41.03:891][145]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-12.41.03:891][145]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-12.41.03:891][145]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-12.41.03:891][145]AssetCheck: /Game/_Musitian/MS_Procedueal_Piano Validating asset
+[2026.02.04-12.43.56:515][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2026.02.04-12.43.56:522][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-12.43.56:572][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Musitian/MS_Procedueal_Piano] ([1] browsable assets)...
+[2026.02.04-12.43.56:572][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Musitian/MS_Procedueal_Piano]
+[2026.02.04-12.43.56:606][511]LogSavePackage: Moving output files for package: /Game/_Musitian/MS_Procedueal_Piano
+[2026.02.04-12.43.56:607][511]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Github/Franks music/FranksDiner/FranksDiner/franks-diner-music/FrankDinerMusic/Saved/MS_Procedueal_Piano27C985D541C397212ACE9B8792697047.tmp' to '../../../../../../Users/andre/Documents/Github/Franks music/FranksDiner/FranksDiner/franks-diner-music/FrankDinerMusic/Content/_Musitian/MS_Procedueal_Piano.uasset'
+[2026.02.04-12.43.56:622][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.972 ms (total: 455.381 ms)
+[2026.02.04-12.43.56:651][511]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.04-12.43.56:652][511]LogContentValidation: Enabled validators:
+[2026.02.04-12.43.56:652][511]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-12.43.56:652][511]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-12.43.56:652][511]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-12.43.56:652][511]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-12.43.56:652][511]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-12.43.56:652][511]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-12.43.56:652][511]AssetCheck: /Game/_Musitian/MS_Procedueal_Piano Validating asset
